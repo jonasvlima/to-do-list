@@ -1,0 +1,12 @@
+$primary-color: #8A63B1; // Um tom mais escuro do roxo
+$secondary-color: #6B738D; // Um tom mais escuro de cinza azulado
+$tertiary-color: #E0E0E0; // Um tom de branco acinzentado para suavizar
+
+$primary-background-color: #121212; // Preto suave para o fundo
+$secondary-background-color: #1D1D1D; // Cinza escuro
+$tertiary-background-color: $primary-color; // Mantém o tom de roxo
+
+$primary-text-color: #E0E0E0; // Texto claro para contraste
+$secondary-text-color: $tertiary-color; // Usar o acinzentado para um pouco de variação
+
+$danger-color: #fa0e0e; // Um vermelho mais escuro e intenso para perigo
