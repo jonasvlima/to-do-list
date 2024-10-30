@@ -1,12 +1,12 @@
-$primary-color: #8A63B1; // Um tom mais escuro do roxo
-$secondary-color: #6B738D; // Um tom mais escuro de cinza azulado
-$tertiary-color: #E0E0E0; // Um tom de branco acinzentado para suavizar
+$primary-color: #3D5A80; // Azul suave para destacar
+$secondary-color: #394867; // Azul mais escuro para profundidade
+$tertiary-color: #AAB4C6; // Cinza azulado para contraste suave
 
-$primary-background-color: #121212; // Preto suave para o fundo
-$secondary-background-color: #1D1D1D; // Cinza escuro
-$tertiary-background-color: $primary-color; // Mantém o tom de roxo
+$primary-background-color: #1A1C2C; // Fundo azul escuro
+$secondary-background-color: #2C2F48; // Cinza-azulado escuro
+$tertiary-background-color: $primary-color; // Mantém o azul suave do primary-color
 
-$primary-text-color: #E0E0E0; // Texto claro para contraste
-$secondary-text-color: $tertiary-color; // Usar o acinzentado para um pouco de variação
+$primary-text-color: #E0E6F1; // Texto claro para contraste
+$secondary-text-color: #AAB4C6; // Cinza azulado para variação de texto
 
-$danger-color: #fa0e0e; // Um vermelho mais escuro e intenso para perigo
+$danger-color: #FF4C4C; // Vermelho mais suave e visível para alertas

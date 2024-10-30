@@ -35,10 +35,11 @@ section{
           border: none;
 
           font-size: 16px;
-          color: $primary-text-color;
+          color:#c7cbcf;
           &.checked{
             text-decoration: line-through;
           }
+          background-color:$secondary-background-color ;
         }
       }
 
